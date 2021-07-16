@@ -1,10 +1,10 @@
 format: jb-book
 root: book/intro
 parts:
-- caption: The Course
+- caption: The Course TEST
   chapters:
   - file: book/schedule
-    title: Course Schedule
+    title: Course Schedule TEST
   - file: book/syllabus
     title: Course Syllabus
 - caption: Open Educational Directory
